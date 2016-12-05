@@ -1,0 +1,10 @@
+org.evergreen.web.params.mapping.handler.ConverterMappingHandler
+org.evergreen.web.params.mapping.handler.CookieMappingHandler
+org.evergreen.web.params.mapping.handler.HeaderMappingHandler
+org.evergreen.web.params.mapping.handler.ServletApiMappingHandler
+org.evergreen.web.params.mapping.handler.RestfulMappingHandler
+org.evergreen.web.params.mapping.handler.MultipartFileMappingHandler
+org.evergreen.web.params.mapping.handler.BasicMappingHandler
+org.evergreen.web.params.mapping.handler.BeanMappingHandler
+
+
